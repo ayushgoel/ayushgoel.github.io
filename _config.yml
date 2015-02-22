@@ -8,6 +8,9 @@ email: ayushgoel111@gmail.com
 github_username: ayushgoel
 twitter_username: named_none
 
+# include pages folder for generation
+include: ['_pages']
+
 # Build settings
 markdown: kramdown
 
