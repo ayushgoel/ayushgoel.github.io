@@ -3,7 +3,7 @@ title: Ayush Goel's Blog
 email: ayushgoel111@gmail.com
 description: Tech posts from Ayush
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://ayushgoel.github.io" # the base hostname & protocol for your site
 twitter_username: named_none
 
 # Build settings
