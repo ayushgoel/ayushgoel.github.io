@@ -9,6 +9,9 @@ twitter_username: named_none
 # Build settings
 markdown: kramdown
 
+#pagination
+paginate: 5
+
 #Defaults
 defaults
  -
