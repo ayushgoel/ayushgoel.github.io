@@ -1,9 +1,10 @@
 # Site settings
 title: Ayush Goel's Blog
-email: ayushgoel111@gmail.com
-description: Tech posts from Ayush
+description: ""#Tech posts from Ayush
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ayushgoel.github.io" # the base hostname & protocol for your site
+author: Ayush Goel
+email: ayushgoel111@gmail.com
 github_username: ayushgoel
 twitter_username: named_none
 
