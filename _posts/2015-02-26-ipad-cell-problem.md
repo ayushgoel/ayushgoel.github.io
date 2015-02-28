@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Setting background color of UITableViewCell in UINib doesn't work for iPad"
 categories: iOS issue
 ---
 Using a [UINib][UINib] to create a [UITableViewCell][UITableViewCell] was one of the best convineiences I had in long time. The problem started when the `backgroundColor` set in the [UINib][UINib] didn't take effect for iPad builds.
