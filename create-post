@@ -1,0 +1,3 @@
+#! /bin/bash
+
+python lib/create-post/create-post.py
