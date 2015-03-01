@@ -1,0 +1,10 @@
+---
+tags: jekyll
+---
+
+I have created a [gist](https://gist.github.com/ayushgoel/70eff5e48afcc2d98b45) to create a blog post file for jekyll driven blogs. It seemed tedious to name a post file with the weird format.
+
+So, I created a python script to solve this. :)
+
+Also, I have added a small wrapper in my blog over the script (which is added as a submodule) so that I don't have to play with the scripts parameters each time. You can have a look at it [here](https://github.com/ayushgoel/ayushgoel.github.io/blob/master/create-post).
+
