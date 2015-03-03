@@ -37,6 +37,6 @@ For more such examples, look at [bignerdranch].
 
 The thing to note is that, you should be careful about the same comparisons for `Boolean` too.
 
-[bignerdranch]: http://www.bignerdranch.com/blog/BOOLs-sharp-corners/
+[bignerdranch]: http://www.bignerdranch.com/blog/bools-sharp-corners/
 [objc.h]: http://www.opensource.apple.com/source/objc4/objc4-371.1/runtime/objc.h
 [MacTypes.h]: https://opensource.apple.com/source/CarbonHeaders/CarbonHeaders-18.1/MacTypes.h
