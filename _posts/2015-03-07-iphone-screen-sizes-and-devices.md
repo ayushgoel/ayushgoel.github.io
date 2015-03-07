@@ -4,9 +4,6 @@ tags: iphone
 
 ---
 
-iPhone screen sizes and their devices
--
-
 * 3.5 inch
     * 4S
 * 4 inch
