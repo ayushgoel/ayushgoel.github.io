@@ -6,16 +6,17 @@ layout: default
 # Ayush Goel
 
 ##Contact
-mail: ayushgoel111@gmail.com
-twitter: named_none
-github: https://github.com/ayushgoel/
-stackoverflow: http://stackoverflow.com/users/1685709/ayush-goel
-blog: http://www.techmyway.com
-Google+: https://plus.google.com/u/0/+AyushGoel
-linkedIn: https://in.linkedin.com/in/ayushgoel
-SPOJ: http://www.spoj.com/users/ayushgoel/
-iTunes Store: https://itunes.apple.com/us/artist/ayush-goel/id888585923
 
+* [Email](mailto:ayushgoel111@gmail.com)
+* [Twitter](https://twitter.com/named_none/)
+* [Blog](http://www.techmyway.com)
+* [Google+](https://plus.google.com/u/0/+AyushGoel)
+* [LinkedIn](https://in.linkedin.com/in/ayushgoel)
+
+* [Github](https://github.com/ayushgoel/)
+* [Stackoverflow](http://stackoverflow.com/users/1685709/ayush-goel)
+* [SPOJ](http://www.spoj.com/users/ayushgoel/)
+* [iTunes Store URL](https://itunes.apple.com/us/artist/ayush-goel/id888585923)
 
 ##Work experience
 
@@ -30,15 +31,15 @@ iTunes Store: https://itunes.apple.com/us/artist/ayush-goel/id888585923
 
 ##Noteworthy Projects
 
-* Talk.to http://talk.to/
-* Poof - http://www.poof.co/
-* Flock - http://www.flock.co/
+* [Talk.to](http://talk.to/)
+* [Poof](http://www.poof.co/)
+* [Flock](http://www.flock.co/)
 
-* TweetMini - https://github.com/ayushgoel/TweetMini
-* AGEmojiKeyboard - https://github.com/ayushgoel/AGEmojiKeyboard
-* Fix Google Contacts - https://github.com/ayushgoel/FixGoogleContacts
-* Accelerate - Speed Up Your Reading (iOS App) - https://itunes.apple.com/us/app/accelerate-speed-up-your-reading/id888585920
-* Wily (iOS App) - https://github.com/mx4492/wily
+* [TweetMini](https://github.com/ayushgoel/TweetMini)
+* [AGEmojiKeyboard](https://github.com/ayushgoel/AGEmojiKeyboard)
+* [Fix Google Contacts](https://github.com/ayushgoel/FixGoogleContacts)
+* [Accelerate - Speed Up Your Reading (iOS App)](https://itunes.apple.com/us/app/accelerate-speed-up-your-reading/id888585920)
+* [Wily (iOS App)](https://github.com/mx4492/wily)
 
 ##Skills
 
