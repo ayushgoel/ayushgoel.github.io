@@ -1,5 +1,5 @@
 ---
-tags: ios, wwdc
+tags: ios wwdc
 ---
 
 Extenstions
