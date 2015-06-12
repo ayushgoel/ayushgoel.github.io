@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-print_help() {
-    echo "Usage: ./publish.sh path_to_post_file title_of_post"
+print_help () {
+    echo "Usage: ./publish.sh <path-to-post-file> <title-of-post>"
 }
 
 path=$1
