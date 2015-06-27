@@ -1,7 +1,9 @@
 ---
 tags: bash error
 ---
+
 Handling strings in Bash
+-
 
     if test ! -f $path
     
