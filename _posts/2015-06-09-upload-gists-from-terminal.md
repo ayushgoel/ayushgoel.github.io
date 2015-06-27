@@ -1,5 +1,5 @@
 ---
-tags: github, gist
+tags: github gist
 ---
 
 Create [Github gists](https://gist.github.com/) from terminal.
