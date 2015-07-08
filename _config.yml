@@ -1,7 +1,7 @@
 # Site settings
 title: Ayush Goel's Blog
 description: ""#Tech posts from Ayush
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://ayushgoel.github.io" # the base hostname & protocol for your site
 author: Ayush Goel
 email: ayushgoel111@gmail.com
@@ -37,4 +37,4 @@ defaults:
 # Options
 custom_header: false
 custom_nav_footer: false
-reverse: false
+reverse: true
