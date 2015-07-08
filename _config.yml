@@ -3,10 +3,11 @@ title: Ayush Goel's Blog
 description: ""#Tech posts from Ayush
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://ayushgoel.github.io" # the base hostname & protocol for your site
-author: Ayush Goel
-email: ayushgoel111@gmail.com
-github_username: ayushgoel
-twitter_username: named_none
+author:
+  name: Ayush Goel
+  email: ayushgoel111@gmail.com
+  github: ayushgoel
+  twitter: named_none
 
 # include pages folder for generation
 include: ['_pages']
