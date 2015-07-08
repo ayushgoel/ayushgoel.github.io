@@ -14,8 +14,9 @@ include: ['_pages']
 # Build settings
 markdown: kramdown
 
-#pagination
+# Pagination
 paginate: 5
+paginate_path: /page:num/
 
 #Defaults
 defaults:
@@ -32,3 +33,8 @@ defaults:
   values:
     layout: "page"
     author: "Ayush Goel"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
