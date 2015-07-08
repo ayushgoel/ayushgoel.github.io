@@ -34,8 +34,3 @@ defaults:
   values:
     layout: "page"
     author: "Ayush Goel"
-
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: true
