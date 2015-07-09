@@ -61,4 +61,4 @@ The final looks like this:
 
 {% endhighlight %}
 
-The new footer file can be [found here]({{_includes/footer.html | prepend:site.baseurl}}).
+The new footer file can be [found here]({{_includes/footer.html | prepend: site.url}}).
