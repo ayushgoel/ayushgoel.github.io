@@ -1,15 +1,19 @@
 <header id="header">
 
-  <ul id="page-list">
-    {% for page in site.pages %}
-      {% if page.title %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
-      {% endif %}
-    {% endfor %}
-  </ul>
+  <div id="header-container">
 
-  <a href="{{ site.baseurl }}">
-    <h1>{{ site.title }}</h1>
-  </a>
+    <a href="{{ site.baseurl }}">
+      <h1>{{ site.title }}</h1>
+    </a>
+
+    <ul id="page-list">
+      {% for page in site.pages %}
+        {% if page.title %}
+          <a href="{{ page.url }}">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+  </div>
 
 </header>

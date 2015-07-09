@@ -26,7 +26,6 @@ header {
   a {
     text-decoration: none;
     color: $background-color;
-    display: block;
 
     h1 {
       display: block;
@@ -34,7 +33,7 @@ header {
       &:after {
         display: block;
         content: '';
-        width: 5rem;
+        width: 8rem;
         height: 1px;
         margin: 23px auto;
         background-color: lighten($background-color, 70%);
@@ -43,11 +42,20 @@ header {
   }
 }
 
-#header #page-list {
-  margin-top: -80px;
-  padding: 1rem 1rem;
-  font-size: 1.5rem;
-  position: absolute;
+#page-list {
+  margin: 0;
+  padding: 0 1rem;
+  font-size: 1.2rem;
+  text-align: center;
+
+  a {
+    padding: 0 10px;
+    font-weight: normal;
+    color: darken($background-color, 10%);
+    &:hover {
+      color: $background-color
+    }
+  }
 }
 
 /* Posts */
