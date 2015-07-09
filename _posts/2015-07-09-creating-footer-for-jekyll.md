@@ -1,8 +1,6 @@
 ---
 tags: jekyll svg html
 ---
-Updating footer to include all social links
--
 
 I am updating this jekyll blog to a new theme. For the new theme, I had to update the footer to include links to my mail, github and twitter.
 
