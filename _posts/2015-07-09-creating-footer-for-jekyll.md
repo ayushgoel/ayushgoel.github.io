@@ -61,4 +61,4 @@ The final looks like this:
 
 {% endhighlight %}
 
-The new footer file can be [found here]({{_includes/footer.html | prepend: site.url}}).
+The new footer file can be [found here](https://github.com/ayushgoel/ayushgoel.github.io/blob/master/_includes/footer.html).
