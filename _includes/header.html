@@ -1,5 +1,13 @@
 <header id="header">
-	<a href="{{ site.baseurl }}">
-		<h1>Ayush's Blog</h1>
-	</a>
+    <a href="{{ site.baseurl }}">
+      <h1>Ayush's Blog</h1>
+    </a>
+
+    <ul>
+      {% for page in site.pages %}
+        {% if page.title %}
+          <a href="{{ page.url }}">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </ul>
 </header>
