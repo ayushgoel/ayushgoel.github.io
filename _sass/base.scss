@@ -45,3 +45,18 @@ a {
 		color: darken($main-color, 5%);
 	}
 }
+
+.icon {
+  > svg {
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      vertical-align: middle;
+      path {
+        fill: $background-color;
+      }
+      polygon {
+        fill: $background-color
+      }
+  }
+}
