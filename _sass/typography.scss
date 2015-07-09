@@ -48,6 +48,10 @@ blockquote {
 	}
 }
 
+code {
+  font-size: 0.875em;
+}
+
 /*- Typography for big screen, based on 18px font-size -*/
 
 @media (min-width: 940px) { //Breakpoint set to 940px
