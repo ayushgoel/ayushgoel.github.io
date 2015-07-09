@@ -1,6 +1,5 @@
 ---
 title: Me
-layout: default
 permalink: /me.html
 ---
 
