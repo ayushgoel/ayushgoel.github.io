@@ -23,8 +23,9 @@ Notes:
 The final looks like this:
 
 {% highlight html linenos %}
+{% raw %}
 
-{{ "{% if site.author.email "}}%}
+{% if site.author.email %}
   <a href="mailto:{{ site.author.email }}">
     <span class="icon">
       <svg viewBox="0 0 14 14">
@@ -34,9 +35,9 @@ The final looks like this:
       </svg>
     </span>
   </a>&nbsp;
-{{ "{% endif "}}%}
+{% endif %}
 
-{{ "{% if site.author.github "}}%}
+{% if site.author.github %}
   <a href="https://github.com/{{ site.author.github }}">
     <span class="icon">
       <svg viewBox="0 0 16 16">
@@ -44,9 +45,9 @@ The final looks like this:
       </svg>
     </span>
   </a>&nbsp;
-{{ "{% endif "}}%}
+{% endif %}
 
-{{ "{% if site.author.twitter "}}%}
+{% if site.author.twitter %}
   <a href="https://twitter.com/{{ site.author.twitter }}">
     <span class="icon">
       <svg viewBox="0 0 16 16">
@@ -55,7 +56,9 @@ The final looks like this:
       </svg>
     </span>
   </a>&nbsp;
-{{ "{% endif "}}%}
+{% endif %}
+
+{% endraw %}
 
 {% endhighlight %}
 
