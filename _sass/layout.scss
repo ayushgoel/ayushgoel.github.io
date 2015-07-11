@@ -62,6 +62,23 @@ header {
 
 /* Posts */
 
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 24px;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+      -ms-border-radius: 4px;
+          border-radius: 4px;
+}
+
+code {
+  color: lighten($text-color, 20%);
+  background-color: darken($background-color, 5%);
+  word-wrap: break-word;
+}
+
 #posts {
   li {
     list-style-type: none;
@@ -97,27 +114,6 @@ header {
     margin-bottom: 1.3334em; /* 24px/18px */
     font-weight: 200;
   }
-}
-
-img {
-  max-width: 100%;
-  display: block;
-  margin: 0 auto;
-  margin-bottom: 24px;
-  -webkit-border-radius: 4px;
-     -moz-border-radius: 4px;
-      -ms-border-radius: 4px;
-          border-radius: 4px;
-}
-
-img[title="Emerald"] {
-    box-shadow: 0 2px 6px #ddd;
-  }
-
-code {
-  color: lighten($text-color, 35%);
-  background-color: lighten($background-color, 35%);
-  word-wrap: break-word;
 }
 
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
