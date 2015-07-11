@@ -62,23 +62,6 @@ header {
 
 /* Posts */
 
-img {
-  max-width: 100%;
-  display: block;
-  margin: 0 auto;
-  margin-bottom: 24px;
-  -webkit-border-radius: 4px;
-     -moz-border-radius: 4px;
-      -ms-border-radius: 4px;
-          border-radius: 4px;
-}
-
-code {
-  color: lighten($text-color, 20%);
-  background-color: darken($background-color, 5%);
-  word-wrap: break-word;
-}
-
 #posts {
   li {
     list-style-type: none;
@@ -123,6 +106,23 @@ code {
   padding-left: 1.5em;
   @media (min-width: 940px) {
     line-height: 1.33334em; /* 24px/18px */
+  }
+
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 24px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+  }
+
+  code {
+    color: lighten($text-color, 20%);
+    background-color: darken($background-color, 5%);
+    word-wrap: break-word;
   }
 }
 
