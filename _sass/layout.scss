@@ -16,35 +16,34 @@
 }
 
 header {
-  padding: 80px 1rem;
+  padding: 80px 0;
   margin-bottom: 2rem;
   position: relative;
   background-image: url("/images/header-background.jpg");
   background-size: cover;
   background-position: center;
-}
 
-#header {
-  a {
+  #title {
+    display: block;
     text-decoration: none;
+    text-align: center;
     color: $background-color;
-
-    h1 {
+    &:focus,
+    &:hover {
+      color: darken($background-color, 10%);
+    }
+    &:after {
       display: block;
-      text-align: center;
-      &:after {
-        display: block;
-        content: '';
-        width: 8rem;
-        height: 1px;
-        margin: 23px auto;
-        background-color: lighten($background-color, 70%);
-      }
+      content: '';
+      width: 5rem;
+      height: 1px;
+      margin: 10px auto;
+      background-color: $background-color;
     }
   }
 }
 
-#page-list {
+#header-page-list {
   margin: 0;
   padding: 0 1rem;
   font-size: 1.2rem;
@@ -54,8 +53,9 @@ header {
     padding: 0 10px;
     font-weight: normal;
     color: darken($background-color, 10%);
+    &:focus,
     &:hover {
-      color: $background-color
+      color: darken($background-color, 20%)
     }
   }
 }
