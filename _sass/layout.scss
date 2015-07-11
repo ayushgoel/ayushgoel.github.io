@@ -67,18 +67,18 @@ header {
 #post-page {
   margin-bottom: 1.5em;
   @media (min-width: 940px) {
-      margin-bottom: 1.3334em;
-    }
+    margin-bottom: 1.3334em;
+  }
 }
 
 .post+.post:before {
-    display: block;
-    content: '';
-    width: 5rem;
-    height: 1px;
-    margin: 23px auto;
-    background-color: lighten($text-color, 70%);
-  }
+  display: block;
+  content: '';
+  width: 5rem;
+  height: 1px;
+  margin: 23px auto;
+  background-color: lighten($text-color, 70%);
+}
 
 .by-line {
   display: block;
@@ -153,9 +153,9 @@ header {
   font-weight: 400;
   padding: 0.5em 1em;
   -webkit-border-radius: 4px;
-     -moz-border-radius: 4px;
-      -ms-border-radius: 4px;
-          border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;
 }
 
 /* Footer */
