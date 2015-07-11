@@ -18,8 +18,10 @@
 header {
   padding: 80px 1rem;
   margin-bottom: 2rem;
-  background-image: url("/images/header-background.jpg");
   position: relative;
+  background-image: url("/images/header-background.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 #header {
