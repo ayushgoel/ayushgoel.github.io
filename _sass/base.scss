@@ -24,38 +24,23 @@ $text-color: #333333;
 /*- Base settings -*/
 
 html {
-	background-color: $background-color;
-	font-size: 16px;
-	@media (min-width: 940px) {
-		font-size: 18px;
-	}
-	line-height: 1.5;
-	color: $text-color;
+  background-color: $background-color;
+  font-size: 16px;
+  @media (min-width: 940px) {
+    font-size: 18px;
+  }
+  line-height: 1.5;
+  color: $text-color;
 }
 
 
 /*- Link -*/
 a {
-	color: $main-color;
-	text-decoration: none;
-	font-weight: 700;
-	&:hover,
-	&:focus {
-		color: darken($main-color, 5%);
-	}
-}
-
-.icon {
-  > svg {
-      display: inline-block;
-      width: 20px;
-      height: 20px;
-      vertical-align: middle;
-      path {
-        fill: $background-color;
-      }
-      polygon {
-        fill: $background-color
-      }
+  color: $main-color;
+  text-decoration: none;
+  font-weight: 700;
+  &:hover,
+  &:focus {
+    color: darken($main-color, 5%);
   }
 }
