@@ -1,0 +1,27 @@
+.pagination {
+  text-align: center;
+  margin: 2.666668em;
+  /* Current page and marker page (if required) */
+  span {
+    background-color: darken($background-color, 10%);
+    color: $text-color;
+  }
+  /* Prev/next page and marker page (if required) */
+  a {
+    background-color: $main-color;
+    color: $background-color;
+    &:focus,
+    &:hover {
+      background-color: lighten($main-color, 10%);
+    }
+  }
+}
+
+.page-item {
+  font-weight: 400;
+  padding: 0.5em 1em;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;
+}

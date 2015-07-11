@@ -1,0 +1,40 @@
+header {
+  padding: 80px 0;
+  margin-bottom: 2rem;
+  position: relative;
+  background-image: url("/images/header-background.jpg");
+  background-size: cover;
+  background-position: center;
+
+  #title {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: $background-color;
+    &:focus,
+    &:hover {
+      color: darken($background-color, 10%);
+    }
+    &:after {
+      display: block;
+      content: '';
+      width: 5rem;
+      height: 1px;
+      margin: 10px auto;
+      background-color: $background-color;
+    }
+  }
+}
+
+#header-page-list {
+  margin: 0;
+  text-align: center;
+
+  a {
+    color: darken($background-color, 10%);
+    &:focus,
+    &:hover {
+      color: darken($background-color, 20%)
+    }
+  }
+}
