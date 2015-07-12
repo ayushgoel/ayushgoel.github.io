@@ -6,8 +6,12 @@ url: "https://ayushgoel.github.io" # the base hostname & protocol for your site
 author:
   name: Ayush Goel
   email: ayushgoel111@gmail.com
-  github: ayushgoel
   twitter: named_none
+  github: ayushgoel
+  linkedIn:
+    country: in
+    username: ayushgoel
+  stackoverflowID: 1685709
 
 # include pages folder for generation
 include: ['_pages']
