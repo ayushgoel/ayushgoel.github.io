@@ -3,20 +3,9 @@ title: Me
 permalink: /me.html
 ---
 
-# Ayush Goel
+> Learning to live..
 
-##Contact
-
-* [Email](mailto:ayushgoel111@gmail.com)
-* [Twitter](https://twitter.com/named_none/)
-* [Blog](http://www.techmyway.com)
-* [Google+](https://plus.google.com/u/0/+AyushGoel)
-* [LinkedIn](https://in.linkedin.com/in/ayushgoel)
-
-* [Github](https://github.com/ayushgoel/)
-* [Stackoverflow](http://stackoverflow.com/users/1685709/ayush-goel)
-* [SPOJ](http://www.spoj.com/users/ayushgoel/)
-* [iTunes Store URL](https://itunes.apple.com/us/artist/ayush-goel/id888585923)
+Software developer currently residing in India. Loves watching anime, movies. Follows hiking and table tennis.
 
 ##Work experience
 
@@ -51,3 +40,16 @@ permalink: /me.html
 * Git
 * Worked with multiple databases: MySQL, sqlite etc.
 
+##Contact
+
+* [Email](mailto:ayushgoel111@gmail.com)
+* [Twitter](https://twitter.com/named_none/)
+* [Blog (another one :P )](http://www.techmyway.com)
+* [Google+](https://plus.google.com/u/0/+AyushGoel)
+* [LinkedIn](https://in.linkedin.com/in/ayushgoel)
+
+##Meta
+* [Github](https://github.com/ayushgoel/)
+* [Stackoverflow](http://stackoverflow.com/users/1685709/ayush-goel)
+* [SPOJ](http://www.spoj.com/users/ayushgoel/)
+* [iTunes Store URL](https://itunes.apple.com/us/artist/ayush-goel/id888585923)
