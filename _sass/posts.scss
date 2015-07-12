@@ -48,9 +48,10 @@
   }
 
   code {
-    color: lighten($text-color, 20%);
-    background-color: darken($background-color, 5%);
     word-wrap: break-word;
+    padding: 1px 5px;
+    color: lighten($text-color, 10%);
+    background-color: darken($background-color, 5%);
   }
 
   /* Set the vertical rhythm (and padding-left) for lists inside post content */
