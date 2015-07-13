@@ -1,28 +1,21 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">
-        {{ page.title }}
-    </h1>
-    <p class="post-meta">
-        {{ page.date | date: "%b %-d, %Y" }}
-        {% if page.author %}
-            • {{ page.author }}
-        {% endif %}
-        {% if page.meta %}
-            • {{ page.meta }}
-        {% endif %}
-        {% if page.tags != empty %}
-            • {{ page.tags | join: ", " }}
-        {% endif %}
-    </p>
-  </header>
+<article id="post-page">
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+    <h2>{{ page.title }}</h2>
+    <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">
+      {{ page.date | date_to_string }}
+      {% if page.tags != empty %}
+        &nbsp;•&nbsp; {{ page.tags | join: ", " }}
+      {% endif %}
+    </time>
 
-</div>
+    <div class="content">
+
+        {{ content }}
+
+    </div>
+
+</article>

@@ -1,0 +1,7 @@
+#container {
+  margin:0 auto;
+  max-width: 730px;
+  padding: 0.5rem 1.5rem;
+}
+
+@import "header", "posts", "pages", "paginator", "footer";

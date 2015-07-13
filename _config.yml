@@ -1,12 +1,17 @@
 # Site settings
-title: Ayush Goel's Blog
+title: Ayush's Blog
 description: ""#Tech posts from Ayush
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://ayushgoel.github.io" # the base hostname & protocol for your site
-author: Ayush Goel
-email: ayushgoel111@gmail.com
-github_username: ayushgoel
-twitter_username: named_none
+author:
+  name: Ayush Goel
+  email: ayushgoel111@gmail.com
+  twitter: named_none
+  github: ayushgoel
+  linkedIn:
+    country: in
+    username: ayushgoel
+  stackoverflowID: 1685709
 
 # include pages folder for generation
 include: ['_pages']
@@ -33,8 +38,3 @@ defaults:
   values:
     layout: "page"
     author: "Ayush Goel"
-
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false

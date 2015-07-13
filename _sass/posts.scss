@@ -1,0 +1,65 @@
+#posts {
+  li {
+    list-style-type: none;
+  }
+}
+
+#post-page {
+  margin-bottom: 1.5em;
+  @media (min-width: 940px) {
+    margin-bottom: 1.3334em;
+  }
+}
+
+.post+.post:before {
+  display: block;
+  content: '';
+  width: 5rem;
+  height: 1px;
+  margin: 23px auto;
+  background-color: lighten($text-color, 70%);
+}
+
+.by-line {
+  display: block;
+  color: lighten($text-color, 25%);
+  line-height: 1.5em; /* 24px/16px */
+  margin-bottom: 1.5em; /* 24px/16px */
+  font-weight: 200;
+  @media (min-width: 940px) {
+    display: block;
+    color: lighten($text-color, 25%);
+    line-height: 1.3334em; /* 24px/18px */
+    margin-bottom: 1.3334em; /* 24px/18px */
+    font-weight: 200;
+  }
+}
+
+.content {
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 24px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+  }
+
+  code {
+    word-wrap: break-word;
+    padding: 1px 5px;
+    color: lighten($text-color, 10%);
+    background-color: darken($background-color, 5%);
+  }
+
+  /* Set the vertical rhythm (and padding-left) for lists inside post content */
+  ul, ol {
+    line-height: 1.5em; /* 24px/16px */
+    padding-left: 1.5em;
+    @media (min-width: 940px) {
+      line-height: 1.33334em; /* 24px/18px */
+    }
+  }
+}

@@ -2,9 +2,6 @@
 tags: ios wwdc
 ---
 
-Extenstions
--
-
 * separate target
 * Needs different entitlement
     * isolated address space
@@ -22,7 +19,6 @@ Extenstions
     * sqlite
     * [NSUserDefaults initWithSuiteName:] Set up shared domain
     * Shared keychains - app groups
-
 
 * be stateless, no general multitasking
 
