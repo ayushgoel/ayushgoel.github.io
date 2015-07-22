@@ -23,7 +23,7 @@ then
     exit 1
 fi
 
-post_name=$(python lib/create-post/filename.py --title "$title --ext md")
+post_name=$(python lib/create-post/filename.py --title "$title" --ext md)
 post_path="_posts/$post_name"
 post_front_matter=$(python lib/create-post/front_matter.py --tags $tags)
 
