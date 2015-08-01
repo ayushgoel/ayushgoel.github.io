@@ -21,6 +21,10 @@ Theme customizations
     * Change the image named `header-background.jpg` in [images folder](images/).
     * You can also edit the CSS directly to get the image in [header.scss](_sass/header.scss).
 
+Google Analytics
+-
+Replace with your analytics code in [google_analytics.html](_includes/google_analytics.html).
+
 Creating a page
 -
 Add the markdown file in [_pages][_pages] folder.
