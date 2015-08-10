@@ -3,6 +3,10 @@
  * https://github.com/mojombo/tpw/blob/master/css/syntax.css
  */
 
+pre {
+  margin: 5px 0;
+}
+
 .lineno {
   color: darken($background-color, 30%);
   margin-right: 1em;
