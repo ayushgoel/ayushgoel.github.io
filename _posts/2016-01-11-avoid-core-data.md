@@ -2,8 +2,6 @@
 tags: ios coredata
 ---
 
-#Avoid Core Data
-
 I would suggest this to everybody who is writing an app, whose true data lies at some server instead of the app itself. Think of any app that needs internet connection.
 
 For example I will take the app I developed, [Checkvistle](https://itunes.apple.com/us/app/checkvistle-checkvist-on-go/id995611134).
