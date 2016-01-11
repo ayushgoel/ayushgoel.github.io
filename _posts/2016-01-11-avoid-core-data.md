@@ -1,6 +1,4 @@
 ---
-layout:  
-category:  
 tags: ios coredata
 ---
 
