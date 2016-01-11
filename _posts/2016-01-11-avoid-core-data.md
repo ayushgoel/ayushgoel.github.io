@@ -1,7 +1,7 @@
 ---
 layout:  
 category:  
-tags: ios, coredata
+tags: ios coredata
 ---
 
 #Avoid Core Data
