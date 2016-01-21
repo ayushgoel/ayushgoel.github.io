@@ -9,6 +9,7 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 
 ##Work experience
 
+* Directi - Sr. Platforms Engineer - June 2014 - Present
 * Directi - Software Engineer - June 2012 - Present
 * Mimir Technologies - Software Development Intern - December 2011 - February 2012 (3 months)
 * Knowlarity Communications - Software Development Intern - May 2011 - June 2011 (2 months)
