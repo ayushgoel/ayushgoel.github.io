@@ -16,8 +16,8 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 
 ##Education
 
-* Delhi College of Engineering B.E., Computer Science, 2008 - 2012 Grade: 78.2%
-* Lovely Public School 10,10+2, Computer Science, 1994 - 2007
+* Delhi College of Engineering - B.E., Computer Science, 2008 - 2012 Grade: 78.2%
+* Lovely Public School - 10, 10+2, Computer Science, 1994 - 2007
 
 ##Noteworthy Projects
 
