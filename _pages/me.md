@@ -9,13 +9,14 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 
 ##Work experience
 
-* Directi - Sr. Platforms Engineer - June 2014 - Present
+* [Directi][1] - Sr. Platforms Engineer - June 2014 - Present
     * [Flock](http://www.flock.co/) - Free group & 1-on-1 chat for your team. Break free from email.
-* Directi - Software Engineer - June 2012 - Jun 2014
+    * Maintains and contributes to multiple open source projects on [Github/talk-to](http://github.com/talk-to/).
+* [Directi][1] - Software Engineer - June 2012 - Jun 2014
     * [Talk.to](http://talk.to/) - Fast, fun texting for your phone and computer.
     * [Poof](http://www.poof.co/) - Your Conversations, off-the-record, always.
-* Mimir Technologies - Software Development Intern - December 2011 - February 2012 (3 months)
-* Knowlarity Communications - Software Development Intern - May 2011 - June 2011 (2 months)
+* [Mimir Technologies](http://www.mimirtech.com/) - Software Development Intern - December 2011 - February 2012 (3 months)
+* [Knowlarity Communications](http://www.knowlarity.com/) - Software Development Intern - May 2011 - June 2011 (2 months)
 
 ##Education
 
@@ -54,3 +55,5 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 * [Stackoverflow](http://stackoverflow.com/users/1685709/ayush-goel)
 * [SPOJ](http://www.spoj.com/users/ayushgoel/)
 * [iTunes Store URL](https://itunes.apple.com/us/artist/ayush-goel/id888585923)
+
+[1]: http://www.directi.com
