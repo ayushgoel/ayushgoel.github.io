@@ -10,7 +10,10 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 ##Work experience
 
 * Directi - Sr. Platforms Engineer - June 2014 - Present
-* Directi - Software Engineer - June 2012 - Present
+    * [Flock](http://www.flock.co/) - Free group & 1-on-1 chat for your team. Break free from email.
+* Directi - Software Engineer - June 2012 - Jun 2014
+    * [Talk.to](http://talk.to/) - Fast, fun texting for your phone and computer.
+    * [Poof](http://www.poof.co/) - Your Conversations, off-the-record, always.
 * Mimir Technologies - Software Development Intern - December 2011 - February 2012 (3 months)
 * Knowlarity Communications - Software Development Intern - May 2011 - June 2011 (2 months)
 
@@ -21,16 +24,12 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 
 ##Noteworthy Projects
 
-* [Talk.to](http://talk.to/)
-* [Poof](http://www.poof.co/)
-* [Flock](http://www.flock.co/)
-
-* [TweetMini](https://github.com/ayushgoel/TweetMini)
-* [AGEmojiKeyboard](https://github.com/ayushgoel/AGEmojiKeyboard)
-* [Fix Google Contacts](https://github.com/ayushgoel/FixGoogleContacts)
+* [TweetMini (Github)](https://github.com/ayushgoel/TweetMini) - Twitter client for iOS.
+* [AGEmojiKeyboard (Github)](https://github.com/ayushgoel/AGEmojiKeyboard) - Emoji Keyboard for iOS.
+* [Fix Google Contacts (Github)](https://github.com/ayushgoel/FixGoogleContacts) - Add international country code to all your google contacts.
 * [Accelerate - Speed Up Your Reading (iOS App)](https://itunes.apple.com/us/app/accelerate-speed-up-your-reading/id888585920)
-* [Wily (iOS App)](https://github.com/mx4492/wily)
-* [Checkvistle : Checkvist On The Go (iOS App)](https://itunes.apple.com/us/app/checkvistle-checkvist-on-go/id995611134)
+* [Wily (iOS App, Github)](https://github.com/mx4492/wily) - “Beats for your ear, beats for your phone”, iOS app to play music from YouTube.
+* [Checkvistle : Checkvist On The Go (iOS App)](https://itunes.apple.com/us/app/checkvistle-checkvist-on-go/id995611134) - iOS client for [checkvist.com](checkvist.com).
 
 ##Skills
 
