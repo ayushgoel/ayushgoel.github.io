@@ -35,9 +35,25 @@ Creating a post
 1. Add the markdown file in [_posts][_posts] folder.
 2. Alternatively, use [publish.sh](publish.sh) to convert a simple markdown to a post and add tags to it.
 
-    ```
+    ```bash
     Usage: ./publish.sh <path-to-post-file> <title-of-post> <tags>
     Note: assumes post file to be markdown
+    ```
+
+3. Add [create-post](https://gist.github.com/70eff5e48afcc2d98b45.git) as submodule. Now you can use [create-post](create-post) in the repo to create new posts.
+
+    ```bash
+    $ ./create-post --help
+    usage: create-post.py [-h] [--dir DIR] [--ext EXT] [--title TITLE] [--version]
+
+    Create sample post file to be used by Jekyll
+
+    optional arguments:
+      -h, --help     show this help message and exit
+      --dir DIR      Directory path to write the sample post in. Default: _posts/
+      --ext EXT      Extension type for the post. Default: .md
+      --title TITLE  Title of the post. Default: title
+      --version      show program's version number and exit
     ```
 
 Installation
