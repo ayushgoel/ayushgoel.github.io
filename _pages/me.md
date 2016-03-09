@@ -7,7 +7,8 @@ permalink: /me.html
 
 Software developer currently residing in India. Loves watching anime, movies. Follows hiking and table tennis.
 
-##Work experience
+Work experience
+-
 
 * [Directi][1] - Sr. Platforms Engineer - June 2014 - Present
     * [Flock](http://www.flock.co/) - Free group & 1-on-1 chat for your team. Break free from email.
@@ -18,12 +19,14 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 * [Mimir Technologies](http://www.mimirtech.com/) - Software Development Intern - December 2011 - February 2012 (3 months)
 * [Knowlarity Communications](http://www.knowlarity.com/) - Software Development Intern - May 2011 - June 2011 (2 months)
 
-##Education
+Education
+-
 
 * Delhi College of Engineering - B.E., Computer Science, 2008 - 2012 Grade: 78.2%
 * Lovely Public School - 10, 10+2, Computer Science, 1994 - 2007
 
-##Noteworthy Projects
+Noteworthy Projects
+-
 
 * [TweetMini (Github)](https://github.com/ayushgoel/TweetMini) - Twitter client for iOS.
 * [AGEmojiKeyboard (Github)](https://github.com/ayushgoel/AGEmojiKeyboard) - Emoji Keyboard for iOS.
@@ -32,7 +35,8 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 * [Wily (iOS App, Github)](https://github.com/mx4492/wily) - “Beats for your ear, beats for your phone”, iOS app to play music from YouTube.
 * [Checkvistle : Checkvist On The Go (iOS App)](https://itunes.apple.com/us/app/checkvistle-checkvist-on-go/id995611134) - iOS client for [checkvist.com](checkvist.com).
 
-##Skills
+Skills
+-
 
 * Objective-C
 * Swift
@@ -42,7 +46,8 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 * Git
 * Worked with multiple databases: MySQL, sqlite etc.
 
-##Contact
+Contact
+-
 
 * [Email](mailto:ayushgoel111@gmail.com)
 * [Twitter](https://twitter.com/named_none/)
@@ -50,7 +55,9 @@ Software developer currently residing in India. Loves watching anime, movies. Fo
 * [Google+](https://plus.google.com/u/0/+AyushGoel)
 * [LinkedIn](https://in.linkedin.com/in/ayushgoel)
 
-##Meta
+Meta
+-
+
 * [Github](https://github.com/ayushgoel/)
 * [Stackoverflow](http://stackoverflow.com/users/1685709/ayush-goel)
 * [SPOJ](http://www.spoj.com/users/ayushgoel/)
