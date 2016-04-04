@@ -38,3 +38,8 @@ defaults:
   values:
     layout: "page"
     author: "Ayush Goel"
+
+gems: [
+    'jekyll-paginate',
+    'jekyll-gist'
+    ]
