@@ -27,14 +27,14 @@ Digging into the documentation I found that passing the correct the parameters c
 Once we have SHA1 and SHA2 resolved,
 Just create the URL like:
 
-```
+{% highlight HTML linenos %}
 http://127.0.0.1:1234/? # Endpoint on which git is running instaweb
 p=.git;
 a=blobdiff;
 f=file-path-to-check-diff-of;
 hb=SHA1;
 hpb=SHA2
-```
+{% endhighlight %}
 
 Just open this URL in your favourite browser and you would be able to see the diff of the file.
 
