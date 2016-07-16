@@ -17,7 +17,6 @@ author:
 include: ['_pages']
 
 # Build settings
-markdown: kramdown
 
 # Pagination
 paginate: 5
