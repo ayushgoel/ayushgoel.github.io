@@ -6,11 +6,11 @@ Code overflow in Jekyll 3 by default uses a `visible` value.
 
 To allow users to scroll the code you can add
 
-{% highlight css linenos %}
+```css
 .highlight {
   overflow-x: scroll;
 }
-{% endhighlight %}
+```
 
 to your `syntax.css` file.
 
