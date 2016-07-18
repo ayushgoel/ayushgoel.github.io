@@ -15,7 +15,7 @@ The session video has been provided by [Swift WTB][wtb] who were cool enough to 
 You can watch it on [YouTube][youtube-presentation].
 
 [Contact me][me] in case of any queries/suggestions.
-Thanks for reading!
+Thanks for reading/watching!
 
 [wtb]: https://swift.withthebest.com
 [Manav]: http://mx4492.in/manav.rathi
