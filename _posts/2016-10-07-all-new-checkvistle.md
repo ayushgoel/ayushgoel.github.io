@@ -2,6 +2,9 @@
 tags: checkvistle ios
 ---
 
+Get the latest update from [App Store!][App Store]
+Here is a rundown of the newest features.
+
 ### 1. Search within Checkvistle
 
 Now you can search in all your tasks and task lists with blazing speeds using a search bar placed right on top of your lists! The search lists include both the lists and the tasks with matching content.
@@ -42,6 +45,8 @@ Checkvistle lists can also be accessed from spotlight now! Checkout the attached
 
 ![Spotlight]({{ site.url }}/assets/Checkvistle/4.png)
 
+Get the latest update from [App Store!][App Store]
 Have any feedback for us? [Contact us][Contact us]
 
 [Contact us]: ayushgoel.github.io/me.html
+[App Store]: https://itunes.apple.com/us/app/checkvistle-checkvist-on-go/id995611134
