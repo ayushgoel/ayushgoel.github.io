@@ -37,13 +37,13 @@ Big|Normal|Small
 
 Use shortcuts from home screen to add lists or search within Checkvistle. Want something else to be added? [Contact us][Contact us]!
 
-![3D Touch]({{ site.url }}/assets/Checkvistle/3.png)
+![3D Touch]({{ site.url }}/assets/Checkvistle/5.png)
 
 ### 6. Spotlight
 
 Checkvistle lists can also be accessed from spotlight now! Checkout the attached screenshot.
 
-![Spotlight]({{ site.url }}/assets/Checkvistle/4.png)
+![Spotlight]({{ site.url }}/assets/Checkvistle/6.png)
 
 Get the latest update from [App Store!][App Store]
 Have any feedback for us? [Contact us][Contact us]
