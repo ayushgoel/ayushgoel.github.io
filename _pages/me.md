@@ -33,7 +33,7 @@ Noteworthy Projects
 * [Fix Google Contacts (Github)](https://github.com/ayushgoel/FixGoogleContacts) - Add international country code to all your google contacts.
 * [Accelerate - Speed Up Your Reading (iOS App)](https://itunes.apple.com/us/app/accelerate-speed-up-your-reading/id888585920)
 * [Wily (iOS App, Github)](https://github.com/mx4492/wily) - “Beats for your ear, beats for your phone”, iOS app to play music from YouTube.
-* [Checkvistle : Checkvist On The Go (iOS App)](https://itunes.apple.com/us/app/checkvistle-checkvist-on-go/id995611134) - iOS client for [checkvist.com](checkvist.com).
+* [Checkvistle : Checkvist On The Go (iOS App)](https://itunes.apple.com/us/app/checkvistle-checkvist-on-go/id995611134) - iOS client for [checkvist.com](https://checkvist.com).
 
 Skills
 -
