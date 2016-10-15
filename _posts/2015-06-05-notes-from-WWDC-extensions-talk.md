@@ -28,9 +28,9 @@ Action extensions
 * `NSExtensionPrincipalClass`
 * `NSExtensionPointIdentifier`
 
-![Access item in View Controller]({{ site.url }}/assets/ios-extension-access-item.png)
+![Access item in View Controller](/assets/ios-extension-access-item.png)
 
 * `NSExtensionContext`
 * `- loadItemForTypeIdentifier:options:completionHandler:`
 
-![Completing share context]({{ site.url }}/assets/ios-extension-share-completion.png)
+![Completing share context](/assets/ios-extension-share-completion.png)

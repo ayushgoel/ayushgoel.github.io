@@ -4,8 +4,8 @@ tags: git web blobdiff
 
 Every one has faced the issue of Github not showing the complete blob diff for a file because it is too large. It asks you to see the diff on your own machine, locally.
 
-![Github Diff too big file]({{ site.url }}/assets/github-diff-too-big-file.png)
-![Github Diff too big]({{ site.url }}/assets/github-diff-too-big.png)
+![Github Diff too big file](/assets/github-diff-too-big-file.png)
+![Github Diff too big](/assets/github-diff-too-big.png)
 
 If you are my kind who doesn't like seeing big diffs in terminal, then this solution is for you.
 

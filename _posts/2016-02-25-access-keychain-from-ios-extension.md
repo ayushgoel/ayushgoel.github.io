@@ -11,7 +11,7 @@ Since the containing app and an extension are built as two different targets, to
 
 Here is how it looks like to set Keychain Group in Xcode (screenshot from Xcode 7.2).
 
-![Keychain group selection in Xcode]({{ site.url }}/assets/ios-keychain-group-selection.png)
+![Keychain group selection in Xcode](/assets/ios-keychain-group-selection.png)
 
 Set this value to same string for both your app and the extension target. And that is it! Access the keychain using the API of [SSKeychain][1] in any of the implementation files now.
 
