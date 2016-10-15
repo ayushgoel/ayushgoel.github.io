@@ -16,6 +16,9 @@ author:
 # include pages folder for generation
 include: ['_pages']
 
+liquid:
+  error_mode: warn
+
 # Build settings
 kramdown:
   syntax_highlighter_opts:
