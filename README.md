@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/License-MIT-blue.svg)
-
 Blog made using [Jekyll][Jekyll] and [Github pages][Github pages]. Woohoo!
 
 Theme
