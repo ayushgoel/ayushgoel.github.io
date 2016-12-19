@@ -1,6 +1,6 @@
 ---
 title: Localisation in iOS
-tags: iOS, localisation
+tags: iOS localisation
 ---
 
 # Why you need localisation?
