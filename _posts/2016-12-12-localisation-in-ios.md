@@ -3,7 +3,7 @@ title: Localisation in iOS
 tags: iOS localisation
 ---
 
-# Why you need localisation?
+### Why you need localisation?
 
 Many people do not speak English.
 
@@ -14,7 +14,7 @@ So by developing you app for only English (the usual development language), you 
 
 Localisation becomes an important part of your app if you want to make it available across country borders. Your app becomes usable by a larger set of people.
 
-# Process
+### Process:
 
 iOS has very good documentation for everything, [including localisation.](https://developer.apple.com/internationalization/)
 
@@ -26,12 +26,16 @@ Overview:
 4. Add the received files to your project.
 5. Count 💰💰💰
 
-### But I got xibs/storyboards!
+#### But I got xibs/storyboards!
+
+1. Select your xib/storyboard
+2. Open the `Utilities` pane for the said file.
+3. In the `File Inspector`, go to `Localization` and add the languages you want to support.
 
 > The only issue we faced was the location of these files.
 > When you localise them, their `.strings` is generated in same location as the xib/storyboard. Keeping track becomes tricky.
 
-###Advanced:
+#### Advanced:
 
 1. Add build step to run [genstrings][genstrings] on all your implementation (`.m`) files. This will generate the `Localizable.strings` file for you each time.
     * Pro: Whenever there is a change in your strings, your version control will mark the file dirty.
