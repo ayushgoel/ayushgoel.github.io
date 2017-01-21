@@ -75,7 +75,9 @@ zip -rj Resources/iOS-strings Resources/en.lproj/*
       ```
 
 4. Use pseudolocalisations in development phase to figure out layout issues early. Pseudolocalisations are available for interface builders. They show you a preview of the screen with localised strings of the chosen laguange.
-  Reference 1: [Internationalizing the User Interface - Detecting Problems Using Pseudolocalizations](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPInternational/InternationalizingYourUserInterface/InternationalizingYourUserInterface.html#//apple_ref/doc/uid/10000171i-CH3-SW1)
-  Reference 2: [Testing Your Internationalized App](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPInternational/TestingYourInternationalApp/TestingYourInternationalApp.html)
+
+    * Reference 1: [Internationalizing the User Interface - Detecting Problems Using Pseudolocalizations](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPInternational/InternationalizingYourUserInterface/InternationalizingYourUserInterface.html#//apple_ref/doc/uid/10000171i-CH3-SW1)
+
+    * Reference 2: [Testing Your Internationalized App](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPInternational/TestingYourInternationalApp/TestingYourInternationalApp.html)
 
 [genstrings]: https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/genstrings.1.html
