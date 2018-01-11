@@ -1,7 +1,6 @@
 # Site settings
 title: Ayush's Blog
 description: ""#Tech posts from Ayush
-baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://ayushgoel.github.io" # the base hostname & protocol for your site
 author:
   name: Ayush Goel
