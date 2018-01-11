@@ -7,7 +7,7 @@
   <ul id="header-page-list">
     {% for page in site.pages %}
       {% if page.title %}
-        <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}">
+        <a href="{{ page.url | prepend: site.url }}">
           <h3> {{ page.title }} </h3>
         </a>
       {% endif %}
