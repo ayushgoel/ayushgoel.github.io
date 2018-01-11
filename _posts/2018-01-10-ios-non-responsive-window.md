@@ -1,4 +1,5 @@
 ---
+title: iOS Non Responsive Window
 tags: iOS
 ---
 
