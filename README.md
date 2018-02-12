@@ -16,8 +16,10 @@ Theme customizations
     ```
 
 2. To change the header image
-    * Change the image named `header-background.jpg` in [images folder](images/).
-    * You can also edit the CSS directly to get the image in [header.scss](_sass/header.scss).
+    * With [commit](https://github.com/ayushgoel/ayushgoel.github.io/commit/a35d8fbe4b3faf7d9db607f937e5598be1fac8d8) the background is created using SVG. Create one using [svgbackgrounds](https://www.svgbackgrounds.com/).
+    * Previously:
+      - Change the image named `header-background.jpg` in [images folder](images/).
+      - You can also edit the CSS directly to get the image in [header.scss](_sass/header.scss).
 
 Google Analytics
 -
