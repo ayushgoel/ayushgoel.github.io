@@ -44,7 +44,7 @@ defaults:
     layout: "page"
     author: "Ayush Goel"
 
-gems: [
+plugins: [
     'jekyll-paginate',
     'jekyll-gist'
     ]
