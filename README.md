@@ -62,6 +62,11 @@ Installation
 * Read setting up [Jekyll][Jekyll] and [Github pages].
 * Install [create-post](https://gist.github.com/ayushgoel/70eff5e48afcc2d98b45) as submodule if you want to use [publish.sh](publish.sh) to create posts.
 
+Run locally
+-
+
+`bundle exec jekyll serve` will start the site on http://localhost:4000.
+
 Author
 -
 Ayush Goel, ayushgoel111@gmail.com
