@@ -1,7 +1,7 @@
 # Site settings
 title: Ayush's Blog
 description: "#Tech posts from Ayush"
-url: "https://ayushgoel.github.io" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 author:
   name: Ayush Goel
   email: ayushgoel111@gmail.com
