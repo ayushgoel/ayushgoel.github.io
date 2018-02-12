@@ -1,5 +1,5 @@
 ---
-tags: ruby, rake
+tags: ruby rake
 ---
 
 * Dependancies are in Hash syntax
