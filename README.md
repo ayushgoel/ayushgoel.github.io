@@ -23,7 +23,9 @@ Theme customizations
 
 Google Analytics
 -
-Replace with your analytics code in [google_analytics.html](_includes/google_analytics.html).
+
+1. Replace with your analytics code in [google_analytics.html](_includes/google_analytics.html).
+2. Uncomment `{% include google_analytics.html %}` in [head.html](_includes/head.html)
 
 Creating a page
 -
