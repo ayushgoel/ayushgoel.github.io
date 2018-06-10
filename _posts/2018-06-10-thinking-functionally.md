@@ -1,8 +1,6 @@
 ---
 tags: functional programming scheme presentation
 ---
-# Thinking Functionally
-
 Functional programming doesn't require you to work with only a functional language. The basic rules of it can be applied to any language you use.
 
 I took a 3 class session at Directi on the topic a few weeks back. Some of the important topics were covered, including:
