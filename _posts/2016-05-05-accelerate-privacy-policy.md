@@ -1,5 +1,5 @@
 ---
-tags: appstore
+tags: appstore DO_NOT_SHOW_IN_POSTS
 ---
 
 This Privacy Policy governs the manner in which [Accelerate - Speed Up Reading][1] collects, uses, maintains and discloses information collected from users (each, a "User") of the app.

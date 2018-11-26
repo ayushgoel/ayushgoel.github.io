@@ -5,6 +5,8 @@ layout: default
 <ul id="posts">
 
   {% for post in paginator.posts %}
+    {% if post.tags contains 'DO_NOT_SHOW_IN_POSTS' %}
+    {% else %}
 
   <li class="post">
     <h2>
@@ -23,6 +25,7 @@ layout: default
     </p>
   </li>
 
+    {% endif %}
   {% endfor %}
 
   <!-- Pagination links -->
