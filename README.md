@@ -61,6 +61,9 @@ Creating a post
 ### Creating a post that should not be shown in blog feed
 
 Add tag `DO_NOT_SHOW_IN_POSTS` to such a post. It will be skipped when showing feed.
+Check [this post](https://github.com/ayushgoel/ayushgoel.github.io/blob/master/_posts/2016-05-05-accelerate-privacy-policy.md) for example.
+
+*Note*: this impacts pagination since you might have less posts in a page as you intended.
 
 Installation
 -
