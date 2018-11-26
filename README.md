@@ -58,6 +58,10 @@ Creating a post
       --version      show program's version number and exit
     ```
 
+### Creating a post that should not be shown in blog feed
+
+Add tag `DO_NOT_SHOW_IN_POSTS` to such a post. It will be skipped when showing feed.
+
 Installation
 -
 
