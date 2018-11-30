@@ -1,5 +1,5 @@
 ---
-tags: github ayushgoel
+tags: github ayushgoel ARCHIVE
 ---
 
 My public repositories as added by [GitHub pages](https://pages.github.com/) in `site` variable of this [Jekyll](http://jekyllrb.com/) installation.

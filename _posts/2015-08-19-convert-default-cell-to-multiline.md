@@ -1,5 +1,5 @@
 ---
-tags: ios uitableview uitableviewcell
+tags: ios uitableview uitableviewcell ARCHIVE
 ---
 Convert a normal `UITableViewCell` of style `UITableViewCellStyleDefault` to a multiline cell.
 

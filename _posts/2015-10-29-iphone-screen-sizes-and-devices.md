@@ -1,6 +1,6 @@
 ---
 
-tags: iphone screenshot-sizes
+tags: iphone screenshot-sizes ARCHIVE
 
 ---
 
