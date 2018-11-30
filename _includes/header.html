@@ -6,7 +6,7 @@
 
   <ul id="header-page-list">
     {% for page in site.pages %}
-      {% if page.title and page.title != '404' %}
+      {% if page.title and (page.title != '404' and page.title != 'Archive') %}
         <a href="{{ page.url }}">
           <h3> {{ page.title }} </h3>
         </a>
