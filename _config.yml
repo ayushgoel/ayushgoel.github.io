@@ -25,7 +25,7 @@ kramdown:
       line_numbers: true
 
 # Pagination
-paginate: 5
+paginate: 10
 paginate_path: /page:num/
 
 #Defaults

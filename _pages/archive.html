@@ -1,12 +1,12 @@
 ---
-layout: default
+title: Archive
+permalink: /archive.html
 ---
 
 <ul id="posts">
 
-  {% for post in paginator.posts %}
-    {% if post.tags contains 'DO_NOT_SHOW_IN_POSTS' %}
-    {% else %}
+  {% for post in site.posts %}
+    {% if post.tags contains 'ARCHIVE' %}
 
   <li class="post">
     <h2>
@@ -54,13 +54,6 @@ layout: default
     {% else %}
       <span class="page-item">&raquo;</span>
     {% endif %}
-
-    {% for page in site.pages %}
-      {% if page.title == 'Archive' %}
-        <a href="{{ page.url }}" class="page-item">{{ page.title }}</a>
-      {% endif %}
-    {% endfor %}
-
   </div>
   {% endif %}
 

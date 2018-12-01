@@ -1,5 +1,5 @@
 ---
-tags: checkvistle ios
+tags: checkvistle ios ARCHIVE
 ---
 
 Get the latest update from [App Store!][App Store]
