@@ -36,7 +36,7 @@ html {
 
 /*- Link -*/
 a {
-  color: $main-color;
+  color: lighten($main-color, 15%);
   text-decoration: none;
   font-weight: 700;
   &:hover,
