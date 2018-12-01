@@ -29,6 +29,11 @@ Google Analytics
 1. Replace with your analytics code in [google_analytics.html](_includes/google_analytics.html).
 2. Uncomment `{% include google_analytics.html %}` in [head.html](_includes/head.html)
 
+Google Ads
+-
+
+You can add your relevant code to [post.html](_layout/post.html)
+
 Creating a page
 -
 Add the markdown file in [_pages][_pages] folder.
