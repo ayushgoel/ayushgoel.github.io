@@ -4,6 +4,8 @@ Theme
 -
 The theme is a custom one built on top of [Emerald](https://github.com/KingFelix/emerald).
 
+![How blog looks](assets/how-blog-looks.png)
+
 Theme customizations
 -
 
