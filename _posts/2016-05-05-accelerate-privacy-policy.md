@@ -17,7 +17,7 @@ We may collect non-personal identification information about Users whenever they
 By using this App, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our App. Your continued use of the App following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ##Contacting us
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us]({{ site.url }}/me.html).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](/me.html).
 
 This policy was generated using www.PrivacyPolicies.com
 
