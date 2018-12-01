@@ -41,6 +41,8 @@ Add the markdown file in [_pages][_pages] folder.
 Creating a post
 -
 
+Some helper scripts have been added to ease the process of creating the markdown for post with front matter already added.
+
 1. Add the markdown file in [_posts][_posts] folder.
 2. Alternatively, use [publish.sh](publish.sh) to convert a simple markdown to a post and add tags to it.
 
