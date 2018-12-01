@@ -72,6 +72,15 @@ Some helper scripts have been added to ease the process of creating the markdown
 Add tag `DO_NOT_SHOW_IN_POSTS` to such a post. It will be skipped when showing feed.
 Check [this post](https://github.com/ayushgoel/ayushgoel.github.io/blob/master/_posts/2016-05-05-accelerate-privacy-policy.md) for example.
 
+### Archiving a post
+
+As your writing skills improve, you might feel that your old posts are not well written or have become obsolete. Instead of removing them, you can archive them so that they are not shown in the index page of your site, but are still accessible to anyone who wants to have a look.
+
+The `Archive` page is linked at the bottom with the page numbers of your blog.
+
+To mark a post as archived, add tag `ARCHIVE` to such a post.
+Check [this post](https://github.com/ayushgoel/ayushgoel.github.io/blob/master/_posts/2016-10-08-all-new-checkvistle.md) for example.
+
 *Note*: this impacts pagination since you might have less posts in a page as you intended.
 
 Installation
