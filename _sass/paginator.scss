@@ -1,6 +1,7 @@
 .pagination {
   text-align: center;
   margin: 2.666668em;
+  line-height: 2.5em;
   /* Current page and marker page (if required) */
   span {
     background-color: darken($background-color, 10%);
