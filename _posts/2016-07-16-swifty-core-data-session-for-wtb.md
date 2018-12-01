@@ -22,5 +22,5 @@ Thanks for reading/watching!
 [NSManagedObject]: https://developer.apple.com/library/mac/documentation/Cocoa/Reference/CoreDataFramework/Classes/NSManagedObject_Class/
 [Checkvistle]: https://itunes.apple.com/us/app/checkvistle-checkvist-on-go/id995611134
 [wtb-github]: https://github.com/ayushgoel/wtb
-[me]: http://blog.techmyway.com/me.html
+[me]: /me.html
 [youtube-presentation]: https://www.youtube.com/watch?v=bhE4_IVuzhE
