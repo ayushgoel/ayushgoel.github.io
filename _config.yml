@@ -47,5 +47,6 @@ defaults:
 
 plugins: [
     'jekyll-paginate',
-    'jekyll-gist'
+    'jekyll-gist',
+    'jekyll-sitemap'
     ]
