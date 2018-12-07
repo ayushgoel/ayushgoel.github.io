@@ -1,8 +1,8 @@
 # Site settings
 title: "Ayush's Blog"
 description: "Trust me, I am intelligent"
-url: "/" # the base hostname & protocol for your site
-fullurl: "https://techmyway.com"
+#url: "/" # the base hostname & protocol for your site
+url: "https://techmyway.com"
 author:
   name: Ayush Goel
   email: ayushgoel111@gmail.com
