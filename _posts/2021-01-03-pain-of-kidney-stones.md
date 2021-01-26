@@ -18,6 +18,7 @@ Doctor put me on antibiotics and some other medicines like Hydrochlorothiazide (
 The medicines are never good, especially the antibiotics. They created a vicious cycle. Whenever I took the antibiotic, it created a nauseatic feeling for me. Due to nausea, I couldn't eat food. Would puke if I did. With no food in my stomach, the antibiotic was no good. So the cycle was:
 
 antibiotic -> nausea -> cant eat food -> still eat food -> puke |
+
      ^-- still eat ---------------------------------------------
 
 Anyways, this went on for about a week. I somehow kept myself busy with office work. My wife was a big support. The mood was always bad because of no food and bad taste of antibiotics. I would cry looking at my state and she somehow held the fort.
