@@ -2,7 +2,7 @@
 tags: finance experience
 ---
 
-## [WIP] Journey to financial freedom [WIP]
+## Journey to financial freedom
 
 ### Aim
 
