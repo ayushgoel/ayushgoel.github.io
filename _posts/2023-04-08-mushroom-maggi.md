@@ -18,7 +18,9 @@ You will need the following ingredients for this recipe:
 ## Instructions
 
 1. Heat the oil in a pan and saute the onion and garlic until they are golden brown.
+![Maggi Onion Garlic](/assets/maggi-onion-garlic.HEIC)
 1. Add mushrooms and beans and cook until dry.
+![Maggi All Veggies](/assets/maggi-all-vegetables.HEIC)
 1. Add salt and Maggi Masala powder to taste (optionally add some turmeric powder and red chilli powder if you like it spicy). Mix well and cook for another minute on low heat without stirring too much so that you get an even coating of masala on each mushroom piece without breaking them apart from each other or making them mushy at this stage!
 1. Once the mushrooms are coated with the Masala, they will release their natural juices, which will mix with the Masala to create a delicious sauce. The mushrooms will also become slightly browned, giving them a rich and savory flavor that pairs perfectly with the Maggi noodles.
 1. Cooking the Maggi noodles should be done in a separate pan.
