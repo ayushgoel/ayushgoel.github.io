@@ -51,7 +51,7 @@ Some helper scripts have been added to ease the process of creating the markdown
     Note: assumes post file to be markdown
     ```
 
-3. Add [create-post](https://gist.github.com/70eff5e48afcc2d98b45.git) as submodule. Now you can use [create-post](create-post) in the repo to create new posts.
+3. Add [create-post](https://gist.github.com/70eff5e48afcc2d98b45.git) as submodule (`git submodule update --init`). Now you can use [create-post](create-post) in the repo to create new posts.
 
     ```bash
     $ ./create-post --help
@@ -88,6 +88,7 @@ Installation
 
 * Read setting up [Jekyll][Jekyll] and [Github pages].
 * Install [create-post](https://gist.github.com/ayushgoel/70eff5e48afcc2d98b45) as submodule if you want to use [publish.sh](publish.sh) to create posts.
+  * `git submodule update --init`
 
 Run locally
 -
