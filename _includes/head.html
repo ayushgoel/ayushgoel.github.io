@@ -1,43 +1,17 @@
 <head>
-
-  <!-- HTML Meta Tags -->
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  <meta name="generator" content="Jekyll">
 
-  <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
-  <link rel="icon" type="image/png" href="{{ site.fullurl }}/favicon.png">
+  {% seo %}
 
-  <!-- Google / Search Engine Tags -->
-  <meta itemprop="name" content="{{ site.title }}">
-  <meta itemprop="description" content="{{ site.description }}">
-  <meta itemprop="image" content="{{ site.fullurl }}/favicon.png">
+  <link rel="icon" type="image/png" href="{{ '/favicon.png' | absolute_url }}">
 
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="{{ site.fullurl }}">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:description" content="{{ site.description }}">
-  <meta property="og:image" content="{{ site.fullurl }}/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ site.title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
-  <meta name="twitter:image" content="{{ site.fullurl }}/favicon.png">
-
-  <!-- CSS & fonts -->
-  <link rel="stylesheet" href="/css/main.css">
-  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,400italic%7CSignika:700,300,400,600' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-  <!-- RSS -->
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
-
-  <!-- Search Optimization -->
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' }}">
+  <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,400italic%7CSignika:700,300,400,600" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazOZQBQJGGlZH93R8nAaSDw==" crossorigin="anonymous" referrerpolicy="no-referrer">
 
   <!-- {% include google_analytics.html %} -->
-
 </head>
