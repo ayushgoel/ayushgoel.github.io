@@ -87,13 +87,19 @@ Installation
 -
 
 * Read setting up [Jekyll][Jekyll] and [Github pages].
+* **Ruby:** this repo targets **Ruby 3.3.x** (see [GitHub Pages versions](https://pages.github.com/versions/)). Use **[rbenv](https://github.com/rbenv/rbenv)** so you do not use Apple’s system Ruby (`/usr/bin/ruby`, `/usr/bin/bundle`), which cannot satisfy `Gemfile.lock` (Bundler **4.x**).
+  * Install: `brew install rbenv ruby-build`, then add to `~/.zshrc`: `eval "$(rbenv init - zsh)"`, open a new shell.
+  * In the repo: `rbenv install -s` (installs the version in `.ruby-version`), then `gem install bundler`, then `bundle install`.
 * Install [create-post](https://gist.github.com/ayushgoel/70eff5e48afcc2d98b45) as submodule if you want to use [publish.sh](publish.sh) to create posts.
   * `git submodule update --init`
 
 Run locally
 -
 
-`bundle exec jekyll serve` will start the site on http://localhost:4000.
+After `bundle install`, either:
+
+* `./bin/jekyll serve` — starts the site on http://localhost:4000 (wrapper picks rbenv + project gems), or  
+* `bundle exec jekyll serve` — only after `which ruby` points at `~/.rbenv/shims/ruby`, not `/usr/bin/ruby`.
 
 Author
 -
