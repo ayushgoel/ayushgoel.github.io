@@ -1,13 +1,13 @@
 <header>
 
-  <a id="title" href="{{ site.url }}">
+  <a id="title" href="{{ '/' | absolute_url }}">
     <h1>{{ site.title }}</h1>
   </a>
 
   <ul id="header-page-list">
     {% for page in site.pages %}
       {% if page.title and (page.title != '404' and page.title != 'Archive') %}
-        <a href="{{ page.url }}">
+        <a href="{{ page.url | relative_url }}">
           <h3> {{ page.title }} </h3>
         </a>
       {% endif %}

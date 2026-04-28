@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+# Prefer rbenv so we never pick up /usr/bin/bundle (Ruby 2.6).
+export PATH="${HOME}/.rbenv/shims:${HOME}/.rbenv/bin:${PATH}"
+if command -v rbenv >/dev/null 2>&1; then
+  eval "$(rbenv init - bash 2>/dev/null || rbenv init - sh)"
+fi
+
+exec bundle exec jekyll "$@"

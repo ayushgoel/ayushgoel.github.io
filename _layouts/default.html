@@ -6,8 +6,8 @@
   <body>
     <div id="wrap">
 
-      <!-- Header -->
-      {% include header.html %}
+      <!-- Header (site-wide; safe for jekyll-include-cache) -->
+      {% include_cached header.html %}
 
       <!-- Main content -->
       <div id="container">
@@ -21,7 +21,7 @@
       </div>
 
     <!-- Footer -->
-      {% include footer.html %}
+      {% include_cached footer.html %}
 
     </div>
   </body>
