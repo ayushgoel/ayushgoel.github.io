@@ -57,5 +57,11 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+# https://github.com/jekyll/jekyll-feed — replaces root feed.xml; injects <link> in <head>
+feed:
+  posts_limit: 20
+  # Use full content in Atom entries when a post has no `excerpt` (avoids empty <summary>)
+  excerpt_only: false
+
 # https://github.com/jekyll/jekyll-seo-tag
 lang: en
