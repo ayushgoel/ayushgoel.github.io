@@ -3,6 +3,11 @@ title: "Ayush's Blog"
 description: "Trust me, I am intelligent"
 #url: "/" # the base hostname & protocol for your site
 url: "https://techmyway.com"
+# Used by jekyll-seo-tag for images and JSON-LD
+logo: "/favicon.png"
+twitter:
+  username: named_none
+  card: summary_large_image
 author:
   name: Ayush Goel
   email: ayushgoel111@gmail.com
