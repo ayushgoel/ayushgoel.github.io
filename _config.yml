@@ -57,3 +57,5 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+# https://github.com/jekyll/jekyll-seo-tag
+lang: en
