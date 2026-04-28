@@ -4,37 +4,37 @@
   <!-- RSS feed is sure to be there -->
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
 
-  <a href="/feed.xml">
-    <span class="fa fa-fw fa-rss"/>
+  <a href="{{ '/feed.xml' | relative_url }}">
+    <span class="fa fa-fw fa-rss"></span>
   </a>&nbsp;
 
   {% if site.author.email %}
-    <a href="mailto:{{ site.author.email }}"
-    <span class="fa fa-fw fa-envelope"/>
+    <a href="mailto:{{ site.author.email }}">
+      <span class="fa fa-fw fa-envelope"></span>
     </a>&nbsp;
   {% endif %}
 
   {% if site.author.twitter %}
     <a href="https://twitter.com/{{ site.author.twitter }}">
-      <span class="fa fa-fw fa-twitter"/>
+      <span class="fa fa-fw fa-twitter"></span>
     </a>&nbsp;
   {% endif %}
 
   {% if site.author.github %}
     <a href="https://github.com/{{ site.author.github }}">
-      <span class="fa fa-fw fa-github"/>
+      <span class="fa fa-fw fa-github"></span>
     </a>&nbsp;
   {% endif %}
 
   {% if site.author.linkedIn %}
     <a href="https://linkedin.com/{{ site.author.linkedIn.country }}/{{ site.author.linkedIn.username }}">
-      <span class="fa fa-fw fa-linkedin"/>
+      <span class="fa fa-fw fa-linkedin"></span>
     </a>&nbsp;
   {% endif %}
 
   {% if site.author.stackoverflowID %}
     <a href="https://stackoverflow.com/users/{{ site.author.stackoverflowID }}">
-      <span class="fa fa-fw fa-stack-overflow"/>
+      <span class="fa fa-fw fa-stack-overflow"></span>
     </a>&nbsp;
   {% endif %}
 
